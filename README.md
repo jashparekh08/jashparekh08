@@ -14,45 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- <h1 align="center">Languages and Tools</h1>
+<h1 align="center">Languages and Tools</h1>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
-      <br>PHP
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="c" width="65" height="65" />
-      <br>C
-    </td>
-           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
-      <br>C++
-    </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       <br>Python
     </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="c" width="65" height="65" />
+      <br>C
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
@@ -62,6 +38,32 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
       <br>CSS3
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65" height="65" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
+      <br>PHP
+    </td>      
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
+      <br>VSCode
+    </td>
   </tr>
 </table>
 
+
+<!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)--
