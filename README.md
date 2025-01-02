@@ -1,19 +1,18 @@
-## Hi there 👋
-
+<h1 align="center">👋 Hi  I'm <b>Jash Parekh</b></h1>
 
 <!--**jashparekh08/jashparekh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+<!--
+![Visitor Count](https://profile-counter.glitch.me/jashparekh08/count.svg)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jashparekh08/&title=Profile%20Views)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=value&url=https://api.countapi.xyz/hit/jashparekh08.readme)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=jashparekh08.jashparekh08)
+-->
+![Visitors](https://komarev.com/ghpvc/?username=jashparekh08&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C%2B%2B;PYTHON;JAVASCRIPT;MERN;SQL;)](https://404dev.in)
 <h1 align="center">Languages and Tools</h1>
 
 <table align="center">
@@ -60,6 +59,11 @@ Here are some ideas to get you started:
     </td>      
   </tr>
 </table>
+
+### 📊 Most Used Languages
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashparekh08&layout=compact&theme=radical&langs_count=6)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jashparekh08&theme=react)](https://github.com/jashparekh08/github-readme-stats)
 
 
 <!--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)--
