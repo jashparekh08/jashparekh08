@@ -22,10 +22,6 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
       <br>Python
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="c" width="65" height="65" />
-      <br>C
-    </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
       <br>C++
@@ -55,13 +51,13 @@ Here are some ideas to get you started:
       <br>NodeJS
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="express" width="65" height="65" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
       <br>PHP
     </td>      
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
-      <br>VSCode
-    </td>
   </tr>
 </table>
 
