@@ -46,8 +46,50 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65" height="65" />
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="express" width="65" height="65" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="65" height="65" />
+      <br>MongoDB
+    </td>     
+  </tr>
+</table>
+
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
@@ -61,10 +103,7 @@
         <img src="https://skillicons.dev/icons?i=express" alt="express" width="65" height="65" />
       <br>Express
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
-      <br>PHP
-    </td>      
+      
   </tr>
 </table>
 
