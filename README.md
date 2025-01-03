@@ -26,14 +26,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
@@ -44,6 +36,14 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
+      <br>PHP
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
@@ -68,42 +68,41 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" alt="Php" width="65" height="65" />
-      <br>PHP
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-      <br>Bootstrap
+        <img src="https://skillicons.dev/icons?i=c" alt="numpy" width="65" height="65" />
+      <br>C
     </td>
      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
       <br>C++
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-      <br>HTML5
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
-      <br>CSS3
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="vscode" />
+      <br>VSCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="express" width="65" height="65" />
+      <br>NumPy
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
-      <br>React
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="react" width="65" height="65" />
+      <br>Pandas
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="65" height="65" />
-      <br>NodeJS
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
+      <br>tensorflow
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="express" width="65" height="65" />
-      <br>Express
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter_notebook" width="65" height="65" />
+      <br>Jupyter
     </td>
-      
   </tr>
 </table>
 
@@ -120,8 +119,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashparekh08&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 -->
-
-
 
 
 
