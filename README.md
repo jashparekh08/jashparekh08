@@ -26,6 +26,47 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="numpy" width="65" height="65" />
+      <br>C
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
+      <br>C++
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="vscode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="express" width="65" height="65" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="react" width="65" height="65" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
+      <br>tensorflow
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter_notebook" width="65" height="65" />
+      <br>Jupyter
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML5
     </td>
@@ -64,47 +105,6 @@
   </tr>
 </table>
 
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=c" alt="numpy" width="65" height="65" />
-      <br>C
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="65" height="65" />
-      <br>C++
-    </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="vscode" />
-      <br>VSCode
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="express" width="65" height="65" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="react" width="65" height="65" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-      <br>tensorflow
-    </td>
-    <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" alt="jupyter_notebook" width="65" height="65" />
-      <br>Jupyter
-    </td>
-  </tr>
-</table>
 
 <br>
 <br>
