@@ -120,9 +120,6 @@
 
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jashparekh08&theme=radical)-->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashparekh08&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 
 
