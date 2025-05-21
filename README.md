@@ -20,7 +20,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=jashparekh08&color=blue&style=flat-square)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB4FF&width=435&lines=C%2B%2B;PYTHON;JAVASCRIPT;MERN;SQL;)](https://404dev.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=3FB4FF&width=435&lines=PYTHON;SQL;DataScience;MachineLearning;C%2B%2B;WebDevelopment;)](https://404dev.in)
 <h1 align="center">Languages and Tools</h1>
 
 <table align="center">
